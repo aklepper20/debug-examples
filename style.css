@@ -1,0 +1,11 @@
+.numbers {
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid black;
+  margin: 8px;
+}
+
+input,
+button {
+  width: 150px;
+}
